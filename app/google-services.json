@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510905188107",
+    "firebase_url": "https://lucknow-b32bd.firebaseio.com",
+    "project_id": "lucknow-b32bd",
+    "storage_bucket": "lucknow-b32bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510905188107:android:dc1b52a52d6df0fa2aec0e",
+        "android_client_info": {
+          "package_name": "com.r.pqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510905188107-ssro3kuted046ppsauph42oi1hcgd0f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_fZR2nccUpO0FeHYSGngQ38bqPgvGbU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510905188107-ssro3kuted046ppsauph42oi1hcgd0f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

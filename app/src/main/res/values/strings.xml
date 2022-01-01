@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">PQR</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We Will help you to find the way!</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by following simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you don\'t have to worry about anything.  </string>
+
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!-- dashboard Colors-->
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#f2f5f8</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+
+    <string name="search_text">Search... </string>
+    <string name="restaurant">Restaurants </string>
+    <string name="hotel">Hotel </string>
+    <string name="hospital">Hospital </string>
+    <string name="institutions">Institutions </string>
+    <string name="airport">AirPort </string>
+    <string name="featured_location">All Featured Location </string>
+    <string name="featured_location_description">mast jagah hai bhai </string>
+    <string name="most_view_location">Most view </string>
+    <string name="view_all">view all </string>
+    <string name="category">Categories</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="categories">Categories</string>
+    <string name="add">Add Missing Places</string>
+    <string name="login">LogIn</string>
+    <string name="bank">Bank</string>
+    <string name="education">Education</string>
+    <string name="shops">Shops</string>
+    <string name="logout">LogOut</string>
+    <string name="share">Share</string>
+    <string name="rate_us">RateUs</string>
+    <string name="slogan_name1">Everything Is Here</string>
+    <string name="park">Park</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="next">Next</string>
+    <string name="new_account">Register here</string>
+    <string name="sign_up">Create \nAccount</string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="choose_your_age">Choose Your Age</string>
+    <string name="welcomeScreen">Thank you for your concern \n Please get connected</string>
+
+
+    <string name="code_verification">Co\nde</string>
+    <string name="login_btn">Already have an account? LogIn</string>
+    <string name="code_verification1">Code</string>
+    <string name="otp_verification">Verification</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="forget_pass_desc">Provide Your Registered Email Address</string>
+    <string name="otp_description">Text has been send to 7987473622</string>
+
+
+    <string name="set_new_pass">new\nCredential</string>
+    <string name="set_new_pass_desc">Your identity has been verified\n set new password here!!</string>
+
+
+</resources>

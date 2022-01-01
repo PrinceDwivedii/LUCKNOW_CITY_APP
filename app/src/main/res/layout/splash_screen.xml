@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Common.SplashScreen"
+    android:background="@color/colorPrimary">
+
+
+    <TextView
+        android:id="@+id/slogan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/backgroundImage"
+        android:gravity="center"
+        android:text="Lucknow"
+        android:textColor="#000"
+        android:textSize="30sp"
+        app:fontFamily="@font/bungee" />
+
+
+    <TextView
+        android:id="@+id/powered_by"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/slogan"
+        android:layout_marginTop="130dp"
+        android:gravity="center"
+        android:text="app developed and created by prince dwivedi"
+        android:textColor="#000"
+        android:textSize="20sp"
+        app:fontFamily="@font/bungee" />
+
+    <ImageView
+        android:id="@+id/backgroundImage"
+        android:layout_width="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/splash_screen_background" />
+
+
+</RelativeLayout>

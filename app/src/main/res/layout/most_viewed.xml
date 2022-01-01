@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="8dp"
+    app:cardCornerRadius="2dp">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/ms_view"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:src="@drawable/slide1"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/mv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/ms_view"
+            android:text="hdhdhd"
+            android:layout_marginLeft="10dp"
+            android:textSize="20sp"
+            />
+
+        <RatingBar
+            android:id="@+id/ms_rating_bar"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/mv_title"
+            android:layout_toRightOf="@id/ms_view"
+            android:rating="4"
+            />
+
+        <TextView
+            android:id="@+id/ms_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ashgsdalhkajsl;hgjkhagjkhakjgfanckjb"
+            android:layout_below="@id/ms_rating_bar"
+            android:layout_toRightOf="@+id/ms_view"
+            android:padding="10dp"/>
+    </RelativeLayout>
+
+
+
+    
+</androidx.cardview.widget.CardView>
